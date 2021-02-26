@@ -1,0 +1,16 @@
+/* 
+    *Designe de Fiche Individuel des Etudiants
+    * Et de meme pour les Professeurs et Personnels
+*/
+
+.fiche
+{
+    margin-left: 3%;
+    font-family: 'Times New Roman', Times, serif;
+}
+ p
+{
+    font-weight: lighter;
+    font-size: 15px;
+    
+}
